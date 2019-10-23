@@ -3,13 +3,13 @@
 
 int main()
 {
-  printf("skysoft\n");
-   printf(" first teutoriyal \n");
+  printf("RESMITHA\n");
+   printf(" first one \n");
 
 
    int a,b,c;
 
-    printf("Enter the number\n");
+    printf("Enter the first number\n");
     scanf("%d",&a);
 
       printf("Enter the second number\n");
